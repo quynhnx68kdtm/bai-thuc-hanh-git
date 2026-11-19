@@ -1,3 +1,4 @@
 Day la bai thuc hanh Git va GitHub.
 Toi dang hoc cach quan ly phien ban.
 Git giup theo doi va luu lai cac thay doi cua tep.
+Day la noi dung cap nhat lan thu hai.
